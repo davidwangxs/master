@@ -1,4 +1,8 @@
 hello
 world
 I am another one
+<<<<<<< HEAD
 I add another one
+=======
+Another one again
+>>>>>>> 9ae636b685d6c1c7d828ef18f15fc0b08a3a6e71
